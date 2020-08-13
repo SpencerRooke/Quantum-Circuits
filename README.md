@@ -1,5 +1,5 @@
 # QC Simulation 
-A small and probably poorly written python library for creating/simulating quantum circuits, only relies on numpy and should work for any python version 3.x
+A small and probably poorly written python library for creating/simulating quantum circuits, created as a fun side project. Only relies on numpy and should work for any python version 3.x
 
 qClass.py provides some methods, while qGates.py includes some of the more common quantum gates
 
