@@ -4,3 +4,5 @@ A small and probably poorly written python library for creating/simulating quant
 qClass.py provides some methods, while qGates.py includes some of the more common quantum gates
 
 Grover.py and Shor.py are two example implementations of quantum algorithms implemented with the above
+
+TODO: OpenCL Parallelization
